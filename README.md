@@ -1,12 +1,12 @@
-# 😎 Hey! Nice to see you.
+# 😊 Hey! Soy Alexander Lee
 
 ---
 
-### Welcome to my page!
-I'm **Alexander Lee Melgarejo Romero**, a **Software Engineer** from 🇵🇪 **Lima, Peru**.
-I have a strong interest in **Cloud Data Engineering** and building scalable data solutions.
+### Bienvenido a mi carpeta de proyectos!!!
+Soy **Ingeniero de Software** vivo en 🇵🇪 **Lima, Peru**.
+Tengo muchos planes e interés en **Ingenieria de datos en la nube** y construir soluciones robustas y escalables usando data.
 
-### Things I code with
+### Mi stack: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
