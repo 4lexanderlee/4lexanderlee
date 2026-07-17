@@ -83,8 +83,8 @@ Creo en el aprendizaje continuo. Regularmente exploro:
 
 ¡Siempre abierto a colaboraciones, discussiones técnicas y oportunidades! 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexanderlee-mr)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](melgarejorom@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in](https://linkedin.com/in/alexanderlee-mr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melgarejorom@gmail.com)
 
 ---
 
